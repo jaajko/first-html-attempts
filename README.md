@@ -1,3 +1,3 @@
-here is my first ever attempt at a website.
+Here are my 2 first ever attempts at a website.
 
-this was just after i learned the basics of html
+This was just after i learned the basics of html
